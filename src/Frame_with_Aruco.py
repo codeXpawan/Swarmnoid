@@ -3,7 +3,7 @@ import numpy as np
 import time
 
 class DetectFrame():
-    url = "http://192.168.1.166:8080/video"
+    url = "dev/video0"
     markers = None
     
     def __init__(self):
